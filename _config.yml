@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -42,15 +42,14 @@ plainwhite:
         social_links:
                 twitter: fel1xschlegel
                 github: felixschlegel
-                linkedIn: in/felix-schlegel-481292151
-        
+                linkedIn: in/schlegel-felix
+
 
 # Build setting
 remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 plugins:
   - jekyll-feed
-gems:
   - jekyll-seo-tag
 
 # Exclude from processing.
