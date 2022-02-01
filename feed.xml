@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-01T22:24:01+00:00</updated><id>/feed.xml</id><title type="html">Felix Schlegel</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Hello, World!</title><link href="/jekyll/2021/01/04/hello-world.html" rel="alternate" type="text/html" title="Hello, World!" /><published>2021-01-04T17:07:56+00:00</published><updated>2021-01-04T17:07:56+00:00</updated><id>/jekyll/2021/01/04/hello-world</id><content type="html" xml:base="/jekyll/2021/01/04/hello-world.html">&lt;p&gt;Hello, world! I want to use this post to give a brief introduction about who I am and how this website came to be.
+My name is Felix and I am a self-taught software developer who is currently studying Computer Science at
+&lt;a href=&quot;https://tum.de/en&quot;&gt;Technical University of Munich.&lt;/a&gt;
+Besides that, I enjoy playing tennis and working on challenging side projects.&lt;/p&gt;
+
+&lt;div class=&quot;language-swift highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;me&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Human&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Felix&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;me&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;sayHello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Although I have developed websites in the past, I wanted to have a lightweight and easy solution for my 
+new website that would not require too much effort to maintain.&lt;/p&gt;
+
+&lt;p&gt;This is when I heard about &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a site-generator that simply transforms Markdown files into HTML code,
+which sounded ideal for my use case.&lt;/p&gt;
+
+&lt;p&gt;Theme: &lt;a href=&quot;https://github.com/samarsault/plainwhite-jekyll&quot;&gt;Plainwhite&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">Hello, world! I want to use this post to give a brief introduction about who I am and how this website came to be. My name is Felix and I am a self-taught software developer who is currently studying Computer Science at Technical University of Munich. Besides that, I enjoy playing tennis and working on challenging side projects.</summary></entry></feed>
